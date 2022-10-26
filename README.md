@@ -4,6 +4,8 @@ Simple application showing the current weather in any city in the world. Just en
 
 The base of the application is openweathermap.com
 
+In the future I want to make it responsive for all devices.
+
 
 ## Screenshots
 
